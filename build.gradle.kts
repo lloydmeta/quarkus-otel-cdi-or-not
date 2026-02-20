@@ -18,7 +18,7 @@ dependencies {
     testImplementation("io.quarkus:quarkus-junit5")
     testImplementation("io.rest-assured:rest-assured")
     testImplementation("io.opentelemetry:opentelemetry-sdk-testing")
-    testImplementation("org.awaitility:awaitility:4.2.2")
+    testImplementation("org.awaitility:awaitility:4.3.0")
     testImplementation("org.assertj:assertj-core:3.27.3")
 }
 

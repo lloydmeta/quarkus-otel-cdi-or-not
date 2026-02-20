@@ -19,7 +19,7 @@ dependencies {
     testImplementation("io.rest-assured:rest-assured")
     testImplementation("io.opentelemetry:opentelemetry-sdk-testing")
     testImplementation("org.awaitility:awaitility:4.3.0")
-    testImplementation("org.assertj:assertj-core:3.27.3")
+    testImplementation("org.assertj:assertj-core:3.27.7")
 }
 
 group = "com.beachape"

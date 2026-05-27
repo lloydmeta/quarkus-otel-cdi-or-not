@@ -9,7 +9,7 @@ repositories {
 }
 
 dependencies {
-    implementation(enforcedPlatform("io.quarkus.platform:quarkus-bom:3.35.4"))
+    implementation(enforcedPlatform("io.quarkus.platform:quarkus-bom:3.36.0"))
     implementation("io.quarkus:quarkus-rest")
     implementation("io.quarkus:quarkus-arc")
     implementation("io.quarkus:quarkus-security")

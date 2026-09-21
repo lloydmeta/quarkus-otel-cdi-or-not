@@ -1,6 +1,6 @@
 plugins {
     java
-    id("io.quarkus") version "3.39.3"
+    id("io.quarkus") version "3.39.4"
 }
 
 repositories {
